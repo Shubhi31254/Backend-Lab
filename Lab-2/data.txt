@@ -1,0 +1,4 @@
+Hello, this is a test file.
+We are learning Node.js Streams.
+Readable streams read data in chunks.
+This file is used for demonstration purposes.
